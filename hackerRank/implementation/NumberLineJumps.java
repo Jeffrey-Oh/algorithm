@@ -9,5 +9,7 @@ public class NumberLineJumps {
         // Write your code here
         // x1 < x2, v1 > v2 YES
         // x1 < x2, v1 <= v2 NO
+
+        return null;
     }
 }
